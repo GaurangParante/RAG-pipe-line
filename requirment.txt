@@ -1,0 +1,7 @@
+langchain
+langchain-groq
+langchain-huggingface
+langchain_community
+sentence-transformers
+pypdf
+python-dotenv
